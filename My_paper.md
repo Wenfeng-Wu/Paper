@@ -1,11 +1,11 @@
 # ISAC
 ### A Camera-Cooperative ISAC Framework for Multimodal Non-Cooperative UAVs Sensing
 
-Paper: https://arxiv.org/abs/2605.22090, https://ieeexplore.ieee.org/document/11570999
-Code: https://github.com/Wenfeng-Wu/cc-isac-uav
-Cite:
-@ARTICLE{11570999,
-  author={Wu, Wenfeng and Xiang, Luping and Yang, Kun},
+Paper: https://arxiv.org/abs/2605.22090, https://ieeexplore.ieee.org/document/11570999  
+Code: https://github.com/Wenfeng-Wu/cc-isac-uav  
+Cite:  
+@ARTICLE{11570999,  
+  author={Wu, Wenfeng and Xiang, Luping and Yang, Kun},  
   journal={IEEE Journal of Selected Topics in Signal Processing}, 
   title={A Camera-Cooperative ISAC Framework for Multimodal Non-Cooperative UAVs Sensing}, 
   year={2026},
